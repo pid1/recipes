@@ -20,9 +20,9 @@
     \newpage
 }
 
-% Remove numbering and ensure sub-headings stay on the same page
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
+    \newpage
     \oldsubsection*{\centering\large\bfseries #1}%
 }
 
@@ -51,11 +51,6 @@
 
 % Title Page
 \titlepagecontent{Roemer Family Recipes}
-
-% Table of Contents
-\newpage
-\tableofcontents
-\newpage
 
 % Content Placeholder
 $body$

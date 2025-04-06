@@ -58,6 +58,7 @@ Ingredients:
 - 1/4 teaspoon garlic powder
 
 Instructions:
+
 1. Steam spinach and artichokes until tender and put them in the crock pot.
 2. Heat cream cheese in microwave for 1 minute or until hot and soft.
 3. Add cream cheese to the crock pot with the rest of the ingredients.
@@ -97,6 +98,7 @@ Instructions:
 ## Macaroni and Beef Casserole
 
 Ingredients:
+
 - 2 quarts water
 - 1 1/2 cups dry elbow macaroni
 - 1 tablespoon olive oil
@@ -124,3 +126,45 @@ Instructions:
 7. Remove the sauce from the heat, and stir in the cheddar cheese, nutmeg, and more salt and pepper to taste. Stir until the cheese melts.
 8. Spoon the macaroni mixture into a baking dish measuring 7 by 10 by 2 1/2 inches. Pour the cheese sauce evenly over the macaroni mixture.
 9. Place under the broiler until it is hot, bubbling and lightly browned.
+
+## Honey Chipotle Chicken Thighs
+
+Ingredients:
+
+- 4 boneless skinless chicken thighs
+- 1 tablespoon butter
+- 3 garlic cloves
+- 2 tablespoons canned chipotle in adobo (the sauce version is fine)
+- 1/3 cup honey
+- 2 tablespoons brown sugar
+- 1 tablespoon hot sauce
+- 1/4 cup chicken broth
+- 1/4 cup sliced green onions
+- 1 tablespoon MSG
+
+Instructions:
+
+1. Preheat oven to 375
+2. Dry chicken, sear in a pan to brown 2-3 minutes per side
+3. Remove chicken from pan, add garlic and green onion whites to pan.
+4. Add chipotle, honey, sugar, hot sauce, and chicken broth and thicken, scraping up fond.
+5. Re-introduce chicken thighs, spooning the sauce over top. Bake for 15 minutes or until sauce is thickened. Broil for the last 5 minutes of cooking.
+
+## Roasted Corn Quesadillas
+
+Ingredients:
+
+- 1.5 cups chopped cooked chicken
+- 1 cup frozen roasted corn kernels
+- 2 green onions, sliced
+- 1 4oz can diced green chiles, drained
+- 4 oz shredded cheese
+- 1/2 tsp cumin
+- 1/2 tsp salt
+- 12 6-inch tortillas
+
+Instructions:
+
+1. Combine the chopped chicken, corn kernels (no need to thaw first), sliced green onions, diced green chiles, shredded cheese, cumin, and salt in a bowl. Stir until everything is evenly combined.
+2. Place a packed 1/4 cup of the chicken and corn mixture in each tortilla, spreading it over 1/2 of the surface, then folding the tortilla to close. Repeat until you run out of filling.
+3. Place the quesadillas in a dry skillet over medium-low heat. Cook on each side until the tortillas are brown and crispy and the filling is melted and gooey. Cut each quesadilla into thirds and serve.
