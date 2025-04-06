@@ -6,6 +6,10 @@
 \usepackage{parskip}
 \usepackage{hyperref} % Add this package to handle hyperlinks and \hypertarget
 
+% Fix for /tightlist error
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 % Title Page
 \newcommand{\titlepagecontent}[1]{
     \begin{titlepage}
