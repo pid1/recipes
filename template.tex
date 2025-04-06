@@ -57,7 +57,9 @@
 % Table of Contents
 \newpage
 \renewcommand{\contentsname}{Table of Contents} % Optional: Customize TOC title
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}} % Ensure subsections are included
 \tableofcontents
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}} % Reset TOC depth after TOC
 \newpage
 
 % Recipe Section

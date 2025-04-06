@@ -112,6 +112,41 @@ Thanksgiving and Super Bowl classic. Best served with tortilla scoops.
 
 # Mains
 
+## Basil Pesto Chicken Pasta
+
+Savory and sweet, this helps let the basil shine while providing a nice meaty base for the pasta.
+
+Makes about 4 servings.
+
+**Ingredients**
+
+- 1 pound chicken of your choice. We like pre-cooked rotisserie chicken.
+- 3 cups dry penne pasta
+- 1 cup (packed tight) fresh basil
+- 1/2 cup extra virgin olive oil
+- 6 anchovies
+- 15 whole garlic cloves
+- 1/3 cup raw chopped pecans
+- 1/4 teaspoon salt
+- 1/4 teaspoon black pepper
+- 1 tablespoon dried Italian seasoning
+- 1 tablespoon dried basil
+- 1 tablespoon sugar
+- 3 sprigs fresh rosemary
+
+**Instructions**
+
+1. Pre-heat the oven to 250.
+2. In a oven-safe bowl, cover the garlic cloves in olive oil and add the rosemary.
+3. Roast for 2 hours.
+4. Remove the garlic and rosemary and set aside. Keep the oil.
+5. In a food processor, add the fresh basil, pecans, anchovies, garlic cloves, olive oil, salt, pepper, sugar, dried basil, Italian seasoning, and 3 of the anchovies. Blend until smooth.
+6. In a large pot, boil salted water and add the pasta. Cook until al dente.
+7. While the pasta cooks, warm up some of the leftover oil in a large skillet over medium heat. Add the chicken and rest of the anchovies and cook until warmed through.
+8. Turn off the heat under the chicken. Leave it on the burner to keep warm.
+9. When the pasta is done, drain and add to the skillet with the chicken. Add the pesto to taste and toss until everything is coated. I use about 2/3 of the pesto.
+10. Serve hot with some grated pecorino romano and red pepper flakes if desired.
+
 ## Caramelized Shallot Pasta
 
 Delicious and savory pasta main. Best served alongside a piece of fish.
