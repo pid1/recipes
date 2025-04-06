@@ -16,7 +16,7 @@
         \centering
         \vspace*{2in}
         {\Huge \textbf{#1}} \\[1.5cm]
-        {\Large A Collection of Recipes} \\[2cm]
+        {\Large A collection of recipes from the Roemer and Fulkerson families.} \\[2cm]
         \vfill
         {\large Compiled on \today}
     \end{titlepage}
@@ -31,17 +31,17 @@
 \titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
 \titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
 
-% Add a new page after each subsection
+% Add a new page before each subsection
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
-    \oldsubsection{#1}%
     \newpage
+    \oldsubsection{#1}%
 }
 
 \begin{document}
 
 % Title Page
-\titlepagecontent{Recipe Book}
+\titlepagecontent{Roemer Family Recipes}
 
 % Content Placeholder
 $body$
