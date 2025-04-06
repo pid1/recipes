@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
     
       - name: Install dependencies
         run: sudo apt-get install -y pandoc texlive-xetex
@@ -21,7 +21,7 @@ jobs:
         run: pandoc -f gfm -t pdf --pdf-engine=xelatex -o recipes.pdf recipes.md
 
       - name: Upload PDF artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: recipes-pdf
           path: recipes.pdf
