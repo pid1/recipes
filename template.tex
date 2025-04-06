@@ -10,21 +10,21 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-% Redefine \section to include numbering in TOC but hide it on the page
+% Redefine \section to include TOC entries without numbers
 \let\oldsection\section
 \renewcommand{\section}[1]{%
     \newpage
     {\centering\Huge\bfseries #1\par} % Display section title without number
-    \addcontentsline{toc}{section}{\thesection\quad #1} % Add numbered entry to TOC
+    \addcontentsline{toc}{section}{#1} % Add unnumbered entry to TOC
     \stepcounter{section} % Increment section counter
 }
 
-% Redefine \subsection to include numbering in TOC but hide it on the page
+% Redefine \subsection to include TOC entries without numbers
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
     \newpage
     {\centering\large\bfseries #1\par} % Display subsection title without number
-    \addcontentsline{toc}{subsection}{\thesubsection\quad #1} % Add numbered entry to TOC
+    \addcontentsline{toc}{subsection}{#1} % Add unnumbered entry to TOC
     \stepcounter{subsection} % Increment subsection counter
 }
 
@@ -56,20 +56,12 @@
 
 % Table of Contents
 \newpage
+\renewcommand{\contentsname}{Table of Contents} % Optional: Customize TOC title
 \tableofcontents
 \newpage
 
-% Example Content
-\section{Appetizers}
-\subsection{Bruschetta}
-\subsection{Stuffed Mushrooms}
+% Recipe Section
 
-\section{Main Courses}
-\subsection{Roast Chicken}
-\subsection{Vegetarian Lasagna}
-
-\section{Desserts}
-\subsection{Chocolate Cake}
-\subsection{Apple Pie}
+$body$
 
 \end{document}
