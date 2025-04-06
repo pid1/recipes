@@ -14,7 +14,7 @@
 \let\oldsection\section
 \renewcommand{\section}[1]{%
     \newpage
-    \section*{\centering\Huge\bfseries #1} % Display section title without number
+    {\centering\Huge\bfseries #1\par} % Display section title without number
     \addcontentsline{toc}{section}{\thesection\quad #1} % Add numbered entry to TOC
     \stepcounter{section} % Increment section counter
 }
@@ -23,7 +23,7 @@
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
     \newpage
-    \subsection*{\centering\large\bfseries #1} % Display subsection title without number
+    {\centering\large\bfseries #1\par} % Display subsection title without number
     \addcontentsline{toc}{subsection}{\thesubsection\quad #1} % Add numbered entry to TOC
     \stepcounter{subsection} % Increment subsection counter
 }
@@ -59,8 +59,17 @@
 \tableofcontents
 \newpage
 
-% Recipe Section
+% Example Content
+\section{Appetizers}
+\subsection{Bruschetta}
+\subsection{Stuffed Mushrooms}
 
-$body$
+\section{Main Courses}
+\subsection{Roast Chicken}
+\subsection{Vegetarian Lasagna}
+
+\section{Desserts}
+\subsection{Chocolate Cake}
+\subsection{Apple Pie}
 
 \end{document}
