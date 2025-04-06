@@ -4,26 +4,28 @@
 \usepackage{fancyhdr}
 \usepackage{graphicx}
 \usepackage{parskip}
-\usepackage{hyperref} % Add this package to handle hyperlinks and \hypertarget
+\usepackage{hyperref}
 
-% Fix for /tightlist error
+% Define /tightlist
 \providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}% Add a new page after each section
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Redefine \section to include numbering in TOC but hide it on the page
 \let\oldsection\section
 \renewcommand{\section}[1]{%
     \newpage
-    \begin{center}
-        \vspace*{2in}
-        {\Huge \textbf{#1}} \\[1.5cm]
-        \vfill
-    \end{center}
-    \newpage
+    \section*{\centering\Huge\bfseries #1} % Display section title without number
+    \addcontentsline{toc}{section}{\thesection\quad #1} % Add numbered entry to TOC
+    \stepcounter{section} % Increment section counter
 }
 
+% Redefine \subsection to include numbering in TOC but hide it on the page
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
     \newpage
-    \oldsubsection*{\centering\large\bfseries #1}%
+    \subsection*{\centering\large\bfseries #1} % Display subsection title without number
+    \addcontentsline{toc}{subsection}{\thesubsection\quad #1} % Add numbered entry to TOC
+    \stepcounter{subsection} % Increment subsection counter
 }
 
 % Title Page
@@ -57,7 +59,8 @@
 \tableofcontents
 \newpage
 
-% Content Placeholder
+% Recipe Section
+
 $body$
 
 \end{document}
