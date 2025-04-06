@@ -20,11 +20,10 @@
     \newpage
 }
 
-% Add a new page after each subsection
+% Remove numbering and ensure sub-headings stay on the same page
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
-    \oldsubsection{#1}%
-    \newpage
+    \oldsubsection*{\centering\large\bfseries #1}%
 }
 
 % Title Page
@@ -45,13 +44,18 @@
 \fancyfoot[C]{\thepage}
 
 % Section Formatting
-\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
-\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\section}{\centering\Large\bfseries}{}{0em}{}
+\titleformat{\subsection}{\centering\large\bfseries}{}{0em}{}
 
 \begin{document}
 
 % Title Page
 \titlepagecontent{Roemer Family Recipes}
+
+% Table of Contents
+\newpage
+\tableofcontents
+\newpage
 
 % Content Placeholder
 $body$
