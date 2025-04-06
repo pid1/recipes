@@ -1,0 +1,27 @@
+name: Build Recipes PDF
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+    
+      - name: Install dependencies
+        run: sudo apt-get install -y pandoc texlive-xetex
+
+      - name: Convert Markdown to PDF
+        run: pandoc -f gfm -t pdf --pdf-engine=xelatex -o recipes.pdf recipes.md
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: recipes-pdf
+          path: recipes.pdf
