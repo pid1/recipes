@@ -36,14 +36,14 @@ Makes enough for about 4 people.
 - 2 1/4 tablespoons baking powder
 - 1/4 teaspoon salt
 - 2 1/2 tablespoons butter
-- 3/4 cup water
-- 1 egg yolk
+- 1/2 cup whole milk
+- 1 egg
 
 **Instructions**
 
 1. Sift flour, sugar, baking powder, and salt together into medium mixing bowl.
-2. Mix the egg yolk into the water.
-3. Melt the butter, mix with the water.
+2. Mix the eggs into the milk.
+3. Melt the butter, mix with the egg and milk mixture.
 4. Stir liquid mixture into the dry ingredients until it is moistened. DO NOT OVER-WORK. Small bits of flour are okay.
 5. Cook pancakes over medium to low heat until the tops are bubbly, then flip and cook 1-2 minutes longer.
 
