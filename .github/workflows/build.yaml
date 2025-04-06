@@ -18,8 +18,7 @@ jobs:
         run: sudo apt-get install -y pandoc texlive-xetex
 
       - name: Convert Markdown to PDF
-        run: pandoc -f gfm -t pdf --pdf-engine=xelatex -o recipes.pdf recipes.md
-
+        run: pandoc -f gfm -t pdf --pdf-engine=xelatex --template=template.tex -o recipes.pdf recipes.md
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:

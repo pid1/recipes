@@ -1,0 +1,44 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{parskip}
+
+% Title Page
+\newcommand{\titlepagecontent}[1]{
+    \begin{titlepage}
+        \centering
+        \vspace*{2in}
+        {\Huge \textbf{#1}} \\[1.5cm]
+        {\Large A Collection of Recipes} \\[2cm]
+        \vfill
+        {\large Compiled on \today}
+    \end{titlepage}
+}
+
+% Page Style
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+
+% Section Formatting
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+
+% Add a new page after each subsection
+\let\oldsubsection\subsection
+\renewcommand{\subsection}[1]{%
+    \oldsubsection{#1}%
+    \newpage
+}
+
+\begin{document}
+
+% Title Page
+\titlepagecontent{Recipe Book}
+
+% Content Placeholder
+$body$
+
+\end{document}
