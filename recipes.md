@@ -336,6 +336,30 @@ Jo makes this for Sarah every Thanksgiving.
 3. Butter a 1.5 quart casserole dish. Sprinkle some cinnamon and sugar over the top and bake for 375 for 30 minutes.
 4. Uncover, top with another cup of marshmallows and more cinnamon and sugar, bake for another 5 minutes until the marshmallows are brown and gooey.
 
+## Cheesy Shredded Potatoes
+
+Makes one 9x13 dish full. Enough for a crowd.
+
+**Ingredients**
+
+16 ounces sour cream
+1 can cream of chicken soup
+3/4 cup salted butter
+1 tablespoon onion powder
+1 tablespoon garlic powder
+2 cups shredded cheddar cheese
+2 pounds shredded frozen potatoes
+2 cups crushed corn flakes
+
+**Instructions**
+
+1. Preheat oven to 350.
+2. In a large bowl, mix together sour cream, cream of chicken soup, 1/2 cup of melted butter, onion powder, and garlic powder.
+3. Mix in the cheddar cheese.
+4. Mix in the potatoes.
+5. Spread the mixture evenly in a greased 9x13 dish.
+6. Bake for 1 hour, until hot and bubbly.
+
 # Desserts & Pastries
 
 ## Chocolate Chip Cookies
