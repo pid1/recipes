@@ -381,15 +381,16 @@ Ingredients
 
 Instructions
 
-1. Preheat oven to 350
+1. Preheat oven to 350.
 2. Mix flour, baking soda, salt.
-3. Put paddle attachment on stand mixer. Mix sugars and butter until creamed, 3-4 minutes. Add eggs and vanilla, mix until completely combined, another 3-4 minutes.
-4. Add flour mixture all at once, mixing until only just set. Do not over mix.
-5. Add chocolate chips and mix until just incorporated.
-6. Cover and fridge for 20 minutes.
-7. Use a tablespoon measure to dole out dough.
-8. Cook on a parchment paper lined baking sheet for 9 minutes.
-9. Let cool on the tray for 5 minutes.
+3. Put paddle attachment on stand mixer. Mix sugars and butter until creamed, 3-4 minutes.
+4. Add eggs and vanilla, mix until completely combined, another 3-4 minutes.
+5. Add flour mixture all at once, mixing until only just set. Do not over mix.
+6. Add chocolate chips and mix until just incorporated.
+7. Cover and fridge for 20 minutes.
+8. Use a tablespoon measure to dole out dough.
+9. Cook on a parchment paper lined baking sheet for 9 minutes.
+10. Let cool on the tray for 5 minutes.
 
 ## Christmas Nuts
 
