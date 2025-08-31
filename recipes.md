@@ -357,8 +357,9 @@ Makes one 9x13 dish full. Enough for a crowd.
 2. In a large bowl, mix together sour cream, cream of chicken soup, 1/2 cup of melted butter, onion powder, and garlic powder.
 3. Mix in the cheddar cheese.
 4. Mix in the potatoes.
-5. Spread the mixture evenly in a greased 9x13 dish.
-6. Bake for 1 hour, until hot and bubbly.
+5. Mix 1/4 cup of melted butter into the corn flakes and top the potatoes.
+6. Spread the mixture evenly in a greased 9x13 dish.
+7. Bake for 1 hour, until hot and bubbly.
 
 # Desserts & Pastries
 
