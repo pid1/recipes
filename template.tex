@@ -10,22 +10,22 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-% Redefine \section to include TOC entries without numbers
+% Redefine \section to display title without number, but add a numbered entry to TOC
 \let\oldsection\section
 \renewcommand{\section}[1]{%
     \newpage
+    \refstepcounter{section} % This makes \thesection work and registers for TOC
     {\centering\Huge\bfseries #1\par} % Display section title without number
     \addcontentsline{toc}{section}{#1} % Add unnumbered entry to TOC
-    \stepcounter{section} % Increment section counter
 }
 
-% Redefine \subsection to include TOC entries without numbers
+% Redefine \subsection to display title without number, but add a numbered entry to TOC
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
     \newpage
-    {\centering\large\bfseries #1\par} % Display subsection title without number
-    \addcontentsline{toc}{subsection}{#1} % Add unnumbered entry to TOC
-    \stepcounter{subsection} % Increment subsection counter
+    \refstepcounter{subsection}
+    {\centering\large\bfseries #1\par}
+    \addcontentsline{toc}{subsection}{#1}
 }
 
 % Title Page
