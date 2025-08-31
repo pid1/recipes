@@ -262,18 +262,18 @@ Makes one pound of dry beans worth.
 
 **Ingredients**
 
-1lb dried pinto beans
-1 10oz can rotel
-4 cups water
-4 cups beef broth
-1 teaspoon garlic powder
-1 teaspoon onion powder
-1 teaspoon chipotle chili powder
-1 tablespoon ancho chili powder
-1/2 teaspoon dry mustard powder
-1/2 teaspoon salt
-1/2 teaspoon black pepper
-1/2 cup brown sugar
+- 1lb dried pinto beans
+- 1 10oz can rotel
+- 4 cups water
+- 4 cups beef broth
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
+- 1 teaspoon chipotle chili powder
+- 1 tablespoon ancho chili powder
+- 1/2 teaspoon dry mustard powder
+- 1/2 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1/2 cup brown sugar
 
 **Instructions**
 
@@ -342,14 +342,14 @@ Makes one 9x13 dish full. Enough for a crowd.
 
 **Ingredients**
 
-16 ounces sour cream
-1 can cream of chicken soup
-3/4 cup salted butter
-1 tablespoon onion powder
-1 tablespoon garlic powder
-2 cups shredded cheddar cheese
-2 pounds shredded frozen potatoes
-2 cups crushed corn flakes
+- 16 ounces sour cream
+- 1 can cream of chicken soup
+- 3/4 cup salted butter
+- 1 tablespoon onion powder
+- 1 tablespoon garlic powder
+- 2 cups shredded cheddar cheese
+- 2 pounds shredded frozen potatoes
+- 2 cups crushed corn flakes
 
 **Instructions**
 
@@ -369,15 +369,15 @@ Sarah’s favorite. Very close to Nestle Toll House.
 
 Ingredients
 
-375g all purpose flour
-1 teaspoon baking soda
-1 teaspoon kosher salt
-2 sticks room temperature unsalted butter
-200g light brown sugar
-200g granulated sugar
-2 large eggs
-2 teaspoons vanilla extract
-2 cups semisweet chocolate chips
+- 375g all purpose flour
+- 1 teaspoon baking soda
+- 1 teaspoon kosher salt
+- 2 sticks room temperature unsalted butter
+- 200g light brown sugar
+- 200g granulated sugar
+- 2 large eggs
+- 2 teaspoons vanilla extract
+- 2 cups semisweet chocolate chips
 
 Instructions
 
