@@ -17,7 +17,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra fonts-texgyre
 
       - name: Convert Markdown to PDF
         run: pandoc -f gfm -t pdf --pdf-engine=xelatex --template=template.tex -o recipes.pdf recipes.md
