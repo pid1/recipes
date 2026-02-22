@@ -124,46 +124,27 @@
 % ── Table of Contents Formatting ───────────────────────────
 \setcounter{tocdepth}{2}
 
-\makeatletter
-% Strip the default TOC heading so we can provide our own
-\renewcommand\tableofcontents{\@starttoc{toc}}
+\usepackage{tocloft}
+\renewcommand{\cfttoctitlefont}{\relax}
+\renewcommand{\cftaftertoctitle}{}
+\setlength{\cftbeforetoctitleskip}{0pt}
+\setlength{\cftaftertoctitleskip}{0pt}
 
-% Section entries: bold, wine-colored, with dot leaders
-\renewcommand*\l@section[2]{%
-  \ifnum \c@tocdepth >\z@
-    \addpenalty\@secpenalty
-    \addvspace{0.6em \@plus\p@}%
-    \begingroup
-      \parindent\z@
-      \rightskip\@pnumwidth
-      \parfillskip-\@pnumwidth
-      \leavevmode\bfseries\color{wine}%
-      #1\nobreak
-      \leaders\hbox{$\m@th
-        \mkern \@dotsep mu\hbox{\normalfont\textcolor{warmgray}{.}}\mkern \@dotsep
-        mu$}\hfill
-      \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
-    \endgroup
-  \fi}
+% Section entries: bold, wine-colored
+\renewcommand{\cftsecfont}{\bfseries\color{wine}}
+\renewcommand{\cftsecpagefont}{\bfseries\color{wine}}
+\renewcommand{\cftsecleader}{\textcolor{warmgray}{\cftdotfill{\cftdotsep}}}
+\renewcommand{\cftsecaftersnum}{}
+\setlength{\cftsecnumwidth}{0em}
+\setlength{\cftsecindent}{0em}
 
-% Subsection entries: normal weight, indented, charcoal
-\renewcommand*\l@subsection[2]{%
-  \ifnum \c@tocdepth >1%
-    \addvspace{0.1em}%
-    \begingroup
-      \parindent\z@
-      \rightskip\@pnumwidth
-      \parfillskip-\@pnumwidth
-      \leftskip 1.5em
-      \leavevmode\normalfont\color{charcoal}%
-      #1\nobreak
-      \leaders\hbox{$\m@th
-        \mkern \@dotsep mu\hbox{\textcolor{warmgray}{.}}\mkern \@dotsep
-        mu$}\hfill
-      \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
-    \endgroup
-  \fi}
-\makeatother
+% Subsection entries: normal weight, charcoal, indented
+\renewcommand{\cftsubsecfont}{\normalfont\color{charcoal}}
+\renewcommand{\cftsubsecpagefont}{\normalfont\color{charcoal}}
+\renewcommand{\cftsubsecleader}{\textcolor{warmgray}{\cftdotfill{\cftdotsep}}}
+\renewcommand{\cftsubsecaftersnum}{}
+\setlength{\cftsubsecnumwidth}{0em}
+\setlength{\cftsubsecindent}{1.5em}
 
 % ── Title Page ─────────────────────────────────────────────
 \newcommand{\titlepagecontent}[1]{%
