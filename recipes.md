@@ -231,6 +231,40 @@ Weeknight dinner favorite. Best served on warm tortillas.
 4. Add chipotle, honey, sugar, hot sauce, and chicken broth and thicken, scraping up fond.
 5. Re-introduce chicken thighs, spooning the sauce over top. Bake for 15 minutes or until sauce is thickened. Broil for the last 5 minutes of cooking.
 
+## Honey Hog Crock Pot Peach Chicken
+
+Slow cooker chicken thighs seasoned with Meat Church Honey Hog, finished in a glossy savory peach glaze. The rub is the sweet-and-spice backbone. Serve over biscuits with a green vegetable.
+
+Makes about 6 servings.
+
+**Ingredients**
+
+- 3 pounds boneless skinless chicken thighs
+- 3 tablespoons Meat Church Honey Hog rub
+- 2 cups sliced peaches (fresh or frozen)
+- 1 cup chicken broth
+- 1/2 cup BBQ sauce
+- 2 tablespoons Dijon mustard
+- 2 tablespoons apple cider vinegar
+- 2 tablespoons soy sauce
+- 3 garlic cloves, minced
+- 1 yellow onion, sliced
+- 1 teaspoon dried thyme
+- 1/2 teaspoon black pepper
+- 2 tablespoons cornstarch
+- 2 tablespoons water
+- 1 tablespoon unsalted butter
+
+**Instructions**
+
+1. Pat the chicken thighs dry. Season all over with 2 tablespoons of the Honey Hog rub (reserve the rest for the glaze) and the black pepper.
+2. In a bowl, whisk together the chicken broth, Dijon mustard, apple cider vinegar, soy sauce, garlic, dried thyme, and the remaining 1 tablespoon of Honey Hog rub until combined.
+3. Spread the sliced onion across the bottom of the crock pot. Lay the seasoned chicken on top, pour the broth mixture over everything, then scatter the peaches on top.
+4. Cover and cook on LOW for 6 hours (or HIGH for 3 hours), until the chicken is tender and pulls apart easily.
+5. Move the chicken to a plate. Stir the BBQ sauce into the liquid in the crock pot until combined.
+6. Stir the cornstarch into the water to make a slurry. Stir the slurry and butter into the liquid, and cook uncovered on HIGH for 15 minutes until the glaze thickens and turns glossy.
+7. Return the chicken to the glaze, spoon it over the top, taste and adjust salt or vinegar, then serve.
+
 ## Roasted Corn Quesadillas
 
 **Ingredients**
