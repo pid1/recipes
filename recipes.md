@@ -49,7 +49,32 @@ Makes enough for about 4 people.
 
 ## Cinnamon Chip Scones
 
-TODO
+Adapted from Melskitchencafe.com.
+
+Makes about 10 scones.
+
+**Ingredients**
+
+- 3 1/2 cups (17.5 ounces) all-purpose flour
+- 1/3 cup (2.75 ounces) sugar
+- 2 teaspoons baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 teaspoon cinnamon
+- 3/4 cup (1 1/2 sticks, 6 ounces) cold butter, cut into tablespoon-sized chunks
+- 1 cup cold buttermilk
+- 1/2 teaspoon vanilla extract
+- 3/4 cup (5 ounces) cinnamon chips
+- 2 tablespoons butter, melted
+- Granulated sugar for sprinkling
+
+**Instructions**
+
+1. Preheat the oven to 400 degrees F. Line a large, rimmed baking sheet with parchment paper and set aside.
+2. In a food processor, combine the flour, sugar, baking powder, baking soda, salt, and cinnamon. Pulse to combine. Add the butter and pulse until it is cut into smaller pieces - don't overprocess; the butter should be no smaller than pea-sized pieces.
+3. Add the buttermilk and vanilla and pulse a couple of times until the dough starts to come together; don't overmix - it's ok if there are dry, crumbly spots here and there. Remove the blade and add the chips, using your hands to knead them in a bit. Turn the dough out onto a surface dusted with 1-2 tablespoons flour and combine the dough and chips together with your hands, kneading briefly, just 2-3 times, until it comes together. Pat and lightly press the dough into a long rectangle, about 15x3 inches.
+4. Cut the length of dough into triangular wedges, about 12-14, and place on the baking sheet, about an inch apart. Brush the tops with melted butter and sprinkle with sugar.
+5. Bake at 400 degrees for 15 minutes until just lightly golden brown and no longer doughy in the center.
 
 ## Dutch Baby
 
