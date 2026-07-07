@@ -447,6 +447,60 @@ Special equipment: smoker
 3. In a medium pot, add the tomatoes, chiles, garlic, and enough water to just cover. Bring to a boil over high heat, then reduce to a simmer and cook for 8 minutes, or until the vegetables have softened. Use an immersion blender to blend until smooth, then whisk in the flour until it is fully incorporated and no lumps remain.
 4. Add the tomato sauce to the meat and stir to combine. Cover with foil. Cook for 6 to 7 hours, stirring every hour, until the meat is tender. Serve with flour tortillas.
 
+## Fish with Pecan Butter Sauce and Meunière Sauce
+
+From Chef Paul Prudhomme's Louisiana Kitchen. The fish are pan fried in this dish.
+
+Makes 6 servings.
+
+**Ingredients**
+
+*For the Meunière sauce (makes about 2 cups):*
+
+- 1 cup seafood or fish stock
+- 3/4 teaspoon minced garlic
+- 3/4 pound (3 sticks) unsalted butter, in all
+- 2 tablespoons all-purpose flour
+- 1/4 cup Worcestershire sauce
+- 1/4 teaspoon salt
+
+*For the pecan butter sauce (makes about 2/3 cup):*
+
+- 4 tablespoons unsalted butter, softened
+- 1/2 cup coarsely chopped pecans, dry roasted
+- 2 tablespoons very finely chopped onion
+- 1 teaspoon lemon juice
+- 1/2 teaspoon Tabasco sauce
+- 1/4 teaspoon minced garlic
+
+*For the fish:*
+
+- 1/2 cup milk
+- 1 egg, beaten
+- 1 tablespoon salt
+- 1 teaspoon onion powder
+- 1 teaspoon sweet paprika
+- 3/4 teaspoon ground red pepper (preferably cayenne)
+- 1/2 teaspoon white pepper
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon black pepper
+- 1/4 teaspoon dry mustard
+- 1/4 teaspoon dried oregano leaves
+- 1/4 teaspoon dried thyme leaves
+- 1 cup all-purpose flour
+- 6 (4-ounce) trout, redfish, or other firm-fleshed fish fillets
+- Vegetable oil, for pan frying
+- 6 tablespoons coarsely chopped pecans, dry roasted
+
+**Instructions**
+
+1. Make the Meunière sauce: In a 2-quart saucepan, combine the stock and garlic. Bring to a boil over high heat, then reduce heat and simmer 2 minutes. Remove from heat. In a 1-quart saucepan, melt 4 tablespoons of the butter over high heat. Add the flour and whisk with a metal whisk until smooth, about 10 seconds. Remove from heat, then whisk the butter-flour mixture into the stock mixture until well combined. Reduce the heat to very low. Add the remaining 2 1/2 sticks of butter a third at a time, whisking constantly until melted before adding more. Gradually whisk in the Worcestershire sauce and salt. Continue cooking, whisking often, until the sauce thickens slightly, about 5 minutes. Keep warm by setting the pan over another pan of hot, but not boiling, water.
+2. Make the pecan butter sauce: Place all ingredients in a blender or food processor and process until creamy and smooth, about 2 to 3 minutes, pushing down the sides a few times with a rubber spatula. Set aside.
+3. Combine the milk and egg in a pan (a loaf, cake, or pie pan works well) until well blended. In a small bowl, thoroughly combine the salt, onion powder, paprika, red pepper, white pepper, garlic powder, black pepper, dry mustard, oregano, and thyme. In a separate pan, add 1 tablespoon of the seasoning mix to the flour and mix well. Sprinkle some of the remaining seasoning mix lightly and evenly on both sides of the fish, patting it in by hand (reserve any remaining seasoning mix for another recipe).
+4. Warm the serving plates in a 250 degree F oven.
+5. Heat about 1/4 inch oil in a very large heavy skillet to about 350 degrees F. Dredge each fillet in the seasoned flour, shaking off the excess; soak in the egg mixture; then, just before frying, dredge the fillets once more in the flour, shaking off the excess. Fry the fillets in the hot oil until golden brown, about 2 to 3 minutes per side, adjusting the heat as necessary to maintain the oil's temperature. Drain on paper towels and, while still hot, spread a scant 2 tablespoons of the pecan butter sauce over the top of each fillet. Serve immediately.
+6. To serve, spoon a scant 1/3 cup of the Meunière sauce onto each heated serving plate and place a fillet on top. Sprinkle each fillet with about 1 tablespoon pecans.
+
 # Sides
 
 ## Cowboy beans
