@@ -49,8 +49,6 @@ Makes enough for about 4 people.
 
 ## Cinnamon Chip Scones
 
-Adapted from Melskitchencafe.com.
-
 Makes about 10 scones.
 
 **Ingredients**
@@ -127,13 +125,11 @@ Thanksgiving and Super Bowl classic. Best served with tortilla scoops.
 
 ## Bean Dip
 
-Fritos Brand Jalapeño Bean Dip, a Fancy Feast-style can of salty refritos spiked with fermented chiles, was introduced in 1956 by the San Antonio-born Frito Company.
-
 Makes 1 pint.
 
 **Ingredients**
 
-- 1 (16-ounce) can refried beans
+- 1 (16-ounce) can refried beans (we like the siete brand for this as it is pre-seasoned)
 - 6 to 8 pickled jalapeño nacho slices, to taste
 - 1 tablespoon brine from the jarred jalapeños
 - 1/2 teaspoon salt
@@ -169,7 +165,7 @@ Makes about 4 servings.
 - 1/4 teaspoon black pepper
 - 1 tablespoon dried Italian seasoning
 - 1 tablespoon dried basil
-- 1 tablespoon sugar
+- 1 teaspoon sugar
 - 3 sprigs fresh rosemary
 
 **Instructions**
@@ -449,8 +445,6 @@ Special equipment: smoker
 
 ## Fish with Pecan Butter Sauce and Meunière Sauce
 
-From Chef Paul Prudhomme's Louisiana Kitchen. The fish are pan fried in this dish.
-
 Makes 6 servings.
 
 **Ingredients**
@@ -502,8 +496,6 @@ Makes 6 servings.
 6. To serve, spoon a scant 1/3 cup of the Meunière sauce onto each heated serving plate and place a fillet on top. Sprinkle each fillet with about 1 tablespoon pecans.
 
 ## Chicken with Maple Pecan Crust and Cranberry-Orange Relish
-
-Adapted from The Mansion on Turtle Creek Cookbook, simplified to skip the fried sweet potato cups - the relish is just served on the side.
 
 Serves 4.
 
