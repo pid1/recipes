@@ -127,13 +127,26 @@ Thanksgiving and Super Bowl classic. Best served with tortilla scoops.
 
 ## Bean Dip
 
+Fritos Brand Jalapeño Bean Dip, a Fancy Feast-style can of salty refritos spiked with fermented chiles, was introduced in 1956 by the San Antonio-born Frito Company.
+
+Makes 1 pint.
+
 **Ingredients**
 
-- 16oz refried pinto beans
+- 1 (16-ounce) can refried beans
+- 6 to 8 pickled jalapeño nacho slices, to taste
+- 1 tablespoon brine from the jarred jalapeños
+- 1/2 teaspoon salt
+- 1/2 teaspoon sugar
+- 1/2 teaspoon onion powder
+- 1/2 teaspoon garlic powder
+- 1/4 teaspoon paprika
+- 1/4 teaspoon chili powder
+- 1/4 teaspoon ground cumin
 
 **Instructions**
 
-1. asf
+1. Dump everything into a food processor and whir it up till smooth. Serve with Fritos.
 
 # Mains
 
