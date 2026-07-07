@@ -383,6 +383,44 @@ Makes 32 empanadas.
 5. Place about 2-3 tablespoons of the chicken and potato mixture on one side of each dough disk. Moisten the edges of the disk with water and fold in half, creating a half-moon-shaped pastry. Use a fork to crimp the edges to seal.
 6. Transfer the empanadas to a cookie sheet and brush with egg wash. Bake at 350 degrees for 35-40 minutes, until crispy. Alternatively, pan fry or deep fry instead of baking.
 
+## Rustic Chicken and Dumplin's
+
+Makes 4 to 6 servings.
+
+**Ingredients**
+
+- 4 pounds boneless, skinless chicken thighs (an equivalent amount to a whole chicken)
+- Morton's Nature's Seasons seasoning blend, to taste
+- 3 tablespoons butter
+- 1 (32-ounce) carton chicken stock
+- 2 cups water
+- 1 teaspoon poultry seasoning
+- 1 teaspoon minced garlic
+- 1 teaspoon salt
+- 1 teaspoon pepper
+- 1/2 onion, minced
+- 3 carrots, cut into 1-inch pieces
+- 3 celery stalks, cut into 1-inch pieces
+- Chopped fresh parsley, for garnish
+- 1 1/4 cups all-purpose flour, plus more for dusting
+- 1 teaspoon baking powder
+- 1/2 teaspoon salt
+- 1 egg
+- 3/4 cup whole buttermilk, well shaken
+- 1/2 cup (1 stick) cold butter, cut into thin slices
+
+**Instructions**
+
+1. Rinse the chicken thighs under cold running water and pat dry with a paper towel. Season all over with the Morton's seasoning blend.
+2. In a 12-inch cast-iron skillet or large Dutch oven, melt the butter over medium-high heat. Add the chicken thighs and cook until golden brown, 6 to 8 minutes. Turn and brown again for another 6 to 8 minutes.
+3. Add the chicken stock and water, and bring to a boil over high heat. Lower the heat to medium, add the poultry seasoning, garlic, salt, pepper, and onion, cover with a lid, and simmer for 20 minutes. Add the carrots and celery, and keep simmering on low heat with the lid ajar to vent the steam, until the vegetables are almost tender, about 20 minutes.
+4. Meanwhile, make the dumplin's. In a large bowl, sift together the flour, baking powder, and salt. In a medium bowl, whisk the egg with the buttermilk and salt.
+5. Cut the butter into the dry mixture using a pastry cutter (a fork or two knives will work if you don't have one). Blend well to a crumbly consistency. Add the buttermilk-egg mixture and gently stir with a wooden spoon until combined. Cover with plastic wrap and refrigerate for 30 minutes.
+6. Remove the dough from the refrigerator and turn it out onto a floured surface. Using your hands, pat the dough out to about 1-inch thickness and fold it by pulling the outer edges into the center. Gently fold—do not knead—until it comes together. Pat the dough out again to about a 1-inch thickness.
+7. Remove the cooked chicken from the skillet and put it on a plate. Cover it with aluminum foil to keep warm. Bring the broth to a gentle boil over medium-high heat. Cut the chicken into bite-sized pieces.
+8. Using a knife, cut the chilled dough into 2-inch squares. Gently drop each square, one at a time, into the boiling broth. Lower the heat to medium and simmer, uncovered, until all of the dumplings rise to the top, about 10 minutes. Return the chicken to the pot and simmer for an additional 5 minutes.
+9. Using a soup ladle, divide the chicken and dumplin's among individual bowls. Garnish with the parsley and serve.
+
 # Sides
 
 ## Cowboy beans
