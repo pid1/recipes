@@ -49,7 +49,30 @@ Makes enough for about 4 people.
 
 ## Cinnamon Chip Scones
 
-TODO
+Makes about 10 scones.
+
+**Ingredients**
+
+- 3 1/2 cups (17.5 ounces) all-purpose flour
+- 1/3 cup (2.75 ounces) sugar
+- 2 teaspoons baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 teaspoon cinnamon
+- 3/4 cup (1 1/2 sticks, 6 ounces) cold butter, cut into tablespoon-sized chunks
+- 1 cup cold buttermilk
+- 1/2 teaspoon vanilla extract
+- 3/4 cup (5 ounces) cinnamon chips
+- 2 tablespoons butter, melted
+- Granulated sugar for sprinkling
+
+**Instructions**
+
+1. Preheat the oven to 400 degrees F. Line a large, rimmed baking sheet with parchment paper and set aside.
+2. In a food processor, combine the flour, sugar, baking powder, baking soda, salt, and cinnamon. Pulse to combine. Add the butter and pulse until it is cut into smaller pieces - don't overprocess; the butter should be no smaller than pea-sized pieces.
+3. Add the buttermilk and vanilla and pulse a couple of times until the dough starts to come together; don't overmix - it's ok if there are dry, crumbly spots here and there. Remove the blade and add the chips, using your hands to knead them in a bit. Turn the dough out onto a surface dusted with 1-2 tablespoons flour and combine the dough and chips together with your hands, kneading briefly, just 2-3 times, until it comes together. Pat and lightly press the dough into a long rectangle, about 15x3 inches.
+4. Cut the length of dough into triangular wedges, about 12-14, and place on the baking sheet, about an inch apart. Brush the tops with melted butter and sprinkle with sugar.
+5. Bake at 400 degrees for 15 minutes until just lightly golden brown and no longer doughy in the center.
 
 ## Dutch Baby
 
@@ -102,13 +125,24 @@ Thanksgiving and Super Bowl classic. Best served with tortilla scoops.
 
 ## Bean Dip
 
+Makes 1 pint.
+
 **Ingredients**
 
-- 16oz refried pinto beans
+- 1 (16-ounce) can refried beans (we like the siete brand for this as it is pre-seasoned)
+- 6 to 8 pickled jalapeño nacho slices, to taste
+- 1 tablespoon brine from the jarred jalapeños
+- 1/2 teaspoon salt
+- 1/2 teaspoon sugar
+- 1/2 teaspoon onion powder
+- 1/2 teaspoon garlic powder
+- 1/4 teaspoon paprika
+- 1/4 teaspoon chili powder
+- 1/4 teaspoon ground cumin
 
 **Instructions**
 
-1. asf
+1. Dump everything into a food processor and whir it up till smooth. Serve with Fritos.
 
 # Mains
 
@@ -131,7 +165,7 @@ Makes about 4 servings.
 - 1/4 teaspoon black pepper
 - 1 tablespoon dried Italian seasoning
 - 1 tablespoon dried basil
-- 1 tablespoon sugar
+- 1 teaspoon sugar
 - 3 sprigs fresh rosemary
 
 **Instructions**
@@ -204,7 +238,35 @@ Makes one 8x10 casserole.
 
 ## Pibil
 
-TODO
+Makes 8 tacos.
+
+**Ingredients**
+
+- 1/4 cup corn or canola oil
+- 3 pounds boneless chuck roast, cut into 4-inch cubes
+- 3 coarsely chopped onions
+- 1 cup minced garlic (8 to 10 cloves)
+- 1/4 cup seeded and coarsely chopped jalapeño chiles
+- 2 unpeeled oranges, cut into wedges
+- 2 unpeeled limes, cut into wedges
+- 1 teaspoon ground cumin
+- 4 cups water
+- Salt and freshly ground pepper to taste
+- 1 cup chopped fresh cilantro
+- 8 corn tortilla shells or 8 soft flour tortillas
+- 1/2 cup grated cotija cheese, crumbled queso fresco, or feta cheese, for topping
+- 1/2 cup sour cream, for topping
+- 1/2 cup guacamole, for topping
+- 1/2 cup salsa of choice, for topping
+
+**Instructions**
+
+1. Preheat the oven to 300 degrees F. In a Dutch oven or heavy casserole, heat the oil over medium-high heat until smoking, and brown the chuck roast, in batches, on all sides, about 6 minutes per batch. Using a slotted spoon, transfer each batch to a bowl; when all the meat is browned, return it to the pan. Add the onion, garlic, chiles, oranges, limes, cumin, water, salt, pepper, and half of the cilantro. Cover and bake for about 4 hours, or until very tender. Remove from the oven.
+2. Using a slotted spoon, transfer the meat and vegetables to a plate, reserving the liquid, and let the meat cool to the touch. Discard the orange and lime wedges.
+3. Pull the meat apart into bite-sized chunks. Meanwhile, place the pan on the stove and cook the pan liquid over medium heat until reduced by half.
+4. Return the meat and vegetables to the reduced liquid. Stir in the remaining cilantro. Taste and adjust the seasoning. Reheat the mixture over medium-low heat.
+5. If using flour tortillas, heat a dry 12-inch sauté pan over medium-high heat. Heat each tortilla separately, turning once, for about 30 seconds per side. Keep warm in a low oven on a baking sheet, layering the tortillas with clean dish towels to keep them from sticking together.
+6. To serve, divide the meat among the tortillas, top with cheese, sour cream, guacamole, and salsa of choice, and (if using flour tortillas) fold one side over about 2 inches of the filling and roll. Alternatively, if the tortillas are small, fold them in half.
 
 ## Honey Chipotle Chicken Thighs
 
@@ -286,7 +348,192 @@ Makes about 6 servings.
 
 ## Empanadas
 
-TODO
+Puerto Rican pastelillos. Store-bought empanada dough discs work fine if you'd rather skip making your own.
+
+Makes 32 empanadas.
+
+**Ingredients**
+
+- 4 cups all-purpose flour (for dough, omit if using store-bought)
+- 1 teaspoon salt (for dough)
+- 1/2 cup unsalted butter, melted (for dough)
+- 4 egg yolks (for dough)
+- 1 cup water (for dough)
+- 2 lbs cooked shredded chicken
+- 2 medium-sized potatoes, diced into 1/4-inch cubes
+- 2 cups shredded cheddar or Mexican blend cheese
+- 2 tablespoons olive oil
+- 3 packets Goya Sazon con culantro y achiote seasoning
+- 6 tablespoons jarred Goya sofrito
+- 6 tablespoons lime juice
+- 4 cloves garlic, minced
+- 1 cup water (for filling)
+- 2 eggs, for egg wash
+
+**Instructions**
+
+1. Make the dough, or skip to step 2 if using store-bought dough discs: Mix the flour with the salt in a large bowl to combine. Add the melted butter, egg yolks, and water to the flour mixture and mix together until a dough begins to form. Transfer to a flour-dusted surface and knead until a consistent ball of dough forms; if the dough feels too wet, add flour a tablespoon at a time until it no longer sticks to your hands. Cover the dough with a towel and chill in the fridge for at least 30 minutes. Divide the dough into quarters, then eighths, then sixteenths, then into 32 pieces. Roll each piece into a ball, then roll each ball into a round disk on a flour-dusted surface using a rolling pin.
+2. Preheat the oven to 350 degrees F and line several baking sheets with parchment paper.
+3. In a large skillet, heat the olive oil over medium heat and sauté the garlic and sofrito until fragrant. Add the shredded chicken, lime juice, and potatoes. Cover and cook until the potatoes are soft, about 8-10 minutes.
+4. Add the Sazon packets along with 1 cup of water and simmer for another 10 minutes. Stir in the cheese and remove from heat. Allow the mixture to cool slightly, then transfer to a large bowl.
+5. Place about 2-3 tablespoons of the chicken and potato mixture on one side of each dough disk. Moisten the edges of the disk with water and fold in half, creating a half-moon-shaped pastry. Use a fork to crimp the edges to seal.
+6. Transfer the empanadas to a cookie sheet and brush with egg wash. Bake at 350 degrees for 35-40 minutes, until crispy. Alternatively, pan fry or deep fry instead of baking.
+
+## Rustic Chicken and Dumplin's
+
+Makes 4 to 6 servings.
+
+**Ingredients**
+
+- 4 pounds boneless, skinless chicken thighs (an equivalent amount to a whole chicken)
+- Morton's Nature's Seasons seasoning blend, to taste
+- 3 tablespoons butter
+- 1 (32-ounce) carton chicken stock
+- 2 cups water
+- 1 teaspoon poultry seasoning
+- 1 teaspoon minced garlic
+- 1 teaspoon salt
+- 1 teaspoon pepper
+- 1/2 onion, minced
+- 3 carrots, cut into 1-inch pieces
+- 3 celery stalks, cut into 1-inch pieces
+- Chopped fresh parsley, for garnish
+- 1 1/4 cups all-purpose flour, plus more for dusting
+- 1 teaspoon baking powder
+- 1/2 teaspoon salt
+- 1 egg
+- 3/4 cup whole buttermilk, well shaken
+- 1/2 cup (1 stick) cold butter, cut into thin slices
+
+**Instructions**
+
+1. Rinse the chicken thighs under cold running water and pat dry with a paper towel. Season all over with the Morton's seasoning blend.
+2. In a 12-inch cast-iron skillet or large Dutch oven, melt the butter over medium-high heat. Add the chicken thighs and cook until golden brown, 6 to 8 minutes. Turn and brown again for another 6 to 8 minutes.
+3. Add the chicken stock and water, and bring to a boil over high heat. Lower the heat to medium, add the poultry seasoning, garlic, salt, pepper, and onion, cover with a lid, and simmer for 20 minutes. Add the carrots and celery, and keep simmering on low heat with the lid ajar to vent the steam, until the vegetables are almost tender, about 20 minutes.
+4. Meanwhile, make the dumplin's. In a large bowl, sift together the flour, baking powder, and salt. In a medium bowl, whisk the egg with the buttermilk and salt.
+5. Cut the butter into the dry mixture using a pastry cutter (a fork or two knives will work if you don't have one). Blend well to a crumbly consistency. Add the buttermilk-egg mixture and gently stir with a wooden spoon until combined. Cover with plastic wrap and refrigerate for 30 minutes.
+6. Remove the dough from the refrigerator and turn it out onto a floured surface. Using your hands, pat the dough out to about 1-inch thickness and fold it by pulling the outer edges into the center. Gently fold—do not knead—until it comes together. Pat the dough out again to about a 1-inch thickness.
+7. Remove the cooked chicken from the skillet and put it on a plate. Cover it with aluminum foil to keep warm. Bring the broth to a gentle boil over medium-high heat. Cut the chicken into bite-sized pieces.
+8. Using a knife, cut the chilled dough into 2-inch squares. Gently drop each square, one at a time, into the boiling broth. Lower the heat to medium and simmer, uncovered, until all of the dumplings rise to the top, about 10 minutes. Return the chicken to the pot and simmer for an additional 5 minutes.
+9. Using a soup ladle, divide the chicken and dumplin's among individual bowls. Garnish with the parsley and serve.
+
+## Chuck Roast Guisada
+
+A riff on traditional carne guisada that throws the entire stew - chuck roast, tomatoes, chiles, and all - into the smoker.
+
+Serves 8 to 10.
+
+**Ingredients**
+
+- 1 chuck roast, about 10 pounds, trimmed of fat and cut into 1/2-inch cubes
+- 2 tablespoons kosher salt
+- 2 tablespoons ground black pepper
+- 4 tomatoes, cored and roughly chopped
+- 4 serrano chiles, stems removed and roughly chopped
+- 3 garlic cloves, peeled
+- 1/3 cup all-purpose flour
+- Flour tortillas, for serving
+
+Special equipment: smoker
+
+**Instructions**
+
+1. Prepare a smoker to 225 degrees F.
+2. Cover the chuck roast with the salt and pepper and place in a large disposable foil roasting tray. Smoke, uncovered, for 90 minutes, stirring every 30 minutes or so.
+3. In a medium pot, add the tomatoes, chiles, garlic, and enough water to just cover. Bring to a boil over high heat, then reduce to a simmer and cook for 8 minutes, or until the vegetables have softened. Use an immersion blender to blend until smooth, then whisk in the flour until it is fully incorporated and no lumps remain.
+4. Add the tomato sauce to the meat and stir to combine. Cover with foil. Cook for 6 to 7 hours, stirring every hour, until the meat is tender. Serve with flour tortillas.
+
+## Fish with Pecan Butter Sauce and Meunière Sauce
+
+Makes 6 servings.
+
+**Ingredients**
+
+*For the Meunière sauce (makes about 2 cups):*
+
+- 1 cup seafood or fish stock
+- 3/4 teaspoon minced garlic
+- 3/4 pound (3 sticks) unsalted butter, in all
+- 2 tablespoons all-purpose flour
+- 1/4 cup Worcestershire sauce
+- 1/4 teaspoon salt
+
+*For the pecan butter sauce (makes about 2/3 cup):*
+
+- 4 tablespoons unsalted butter, softened
+- 1/2 cup coarsely chopped pecans, dry roasted
+- 2 tablespoons very finely chopped onion
+- 1 teaspoon lemon juice
+- 1/2 teaspoon Tabasco sauce
+- 1/4 teaspoon minced garlic
+
+*For the fish:*
+
+- 1/2 cup milk
+- 1 egg, beaten
+- 1 tablespoon salt
+- 1 teaspoon onion powder
+- 1 teaspoon sweet paprika
+- 3/4 teaspoon ground red pepper (preferably cayenne)
+- 1/2 teaspoon white pepper
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon black pepper
+- 1/4 teaspoon dry mustard
+- 1/4 teaspoon dried oregano leaves
+- 1/4 teaspoon dried thyme leaves
+- 1 cup all-purpose flour
+- 6 (4-ounce) trout, redfish, or other firm-fleshed fish fillets
+- Vegetable oil, for pan frying
+- 6 tablespoons coarsely chopped pecans, dry roasted
+
+**Instructions**
+
+1. Make the Meunière sauce: In a 2-quart saucepan, combine the stock and garlic. Bring to a boil over high heat, then reduce heat and simmer 2 minutes. Remove from heat. In a 1-quart saucepan, melt 4 tablespoons of the butter over high heat. Add the flour and whisk with a metal whisk until smooth, about 10 seconds. Remove from heat, then whisk the butter-flour mixture into the stock mixture until well combined. Reduce the heat to very low. Add the remaining 2 1/2 sticks of butter a third at a time, whisking constantly until melted before adding more. Gradually whisk in the Worcestershire sauce and salt. Continue cooking, whisking often, until the sauce thickens slightly, about 5 minutes. Keep warm by setting the pan over another pan of hot, but not boiling, water.
+2. Make the pecan butter sauce: Place all ingredients in a blender or food processor and process until creamy and smooth, about 2 to 3 minutes, pushing down the sides a few times with a rubber spatula. Set aside.
+3. Combine the milk and egg in a pan (a loaf, cake, or pie pan works well) until well blended. In a small bowl, thoroughly combine the salt, onion powder, paprika, red pepper, white pepper, garlic powder, black pepper, dry mustard, oregano, and thyme. In a separate pan, add 1 tablespoon of the seasoning mix to the flour and mix well. Sprinkle some of the remaining seasoning mix lightly and evenly on both sides of the fish, patting it in by hand (reserve any remaining seasoning mix for another recipe).
+4. Warm the serving plates in a 250 degree F oven.
+5. Heat about 1/4 inch oil in a very large heavy skillet to about 350 degrees F. Dredge each fillet in the seasoned flour, shaking off the excess; soak in the egg mixture; then, just before frying, dredge the fillets once more in the flour, shaking off the excess. Fry the fillets in the hot oil until golden brown, about 2 to 3 minutes per side, adjusting the heat as necessary to maintain the oil's temperature. Drain on paper towels and, while still hot, spread a scant 2 tablespoons of the pecan butter sauce over the top of each fillet. Serve immediately.
+6. To serve, spoon a scant 1/3 cup of the Meunière sauce onto each heated serving plate and place a fillet on top. Sprinkle each fillet with about 1 tablespoon pecans.
+
+## Chicken with Maple Pecan Crust and Cranberry-Orange Relish
+
+Serves 4.
+
+**Ingredients**
+
+*For the cranberry-orange relish:*
+
+- 1 cup cranberries
+- Zest and sections of 1 orange, pith removed and seeded
+- Zest of 1 small lemon
+- 2 teaspoons grated fresh ginger
+- 2 teaspoons chopped fresh cilantro
+- Pure maple syrup, to taste
+
+*For the chicken:*
+
+- 2 (3-pound) free-range chickens or fryers, boned into 4 boneless, skin-on chicken halves
+- Salt, to taste
+- Coarsely ground black pepper, to taste
+- 2 tablespoons vegetable oil
+- 1 cup finely ground pecans
+- 1 tablespoon Dijon mustard
+- 1 tablespoon pure maple syrup
+- 1 tablespoon reserved chicken grease
+- 1 egg white, lightly beaten
+- 2 tablespoons brandy
+- 1 1/2 cups brown veal demi-glace
+
+**Instructions**
+
+1. Make the cranberry-orange relish: Using the fine die of a food grinder, grind the cranberries, orange zest and sections, lemon zest, ginger, and cilantro into a small bowl (or process finely in a food processor). Add maple syrup to taste and mix well. Cover and set aside; the relish can be made up to 1 day ahead and refrigerated, tightly covered. Serve at room temperature.
+2. Preheat the oven to 400 degrees F.
+3. Remove the wings from the chickens. Starting at the keel bone, run the tip of a knife between the breast meat and bone back to the thigh so that the boneless breast and thigh meat separate in one piece, leaving the skin on. Cutting from the underside, remove the thigh and leg bones. Repeat for the other bird so that you have 4 boneless chicken halves.
+4. Season the chicken halves with salt and pepper. Heat the oil in an ovenproof sauté pan large enough to hold the chicken halves in a single layer. Sauté the chicken, skin side down, for about 5 minutes, or until a light brown crust has formed, being careful not to burn.
+5. Turn the halves skin side up and place the sauté pan in the oven. Roast for 8 minutes, then remove from the oven. Pour off the grease, reserving 1 tablespoon.
+6. Combine the pecans, mustard, maple syrup, reserved chicken grease, egg white, and salt to taste. Spoon the mixture over each chicken half and, using the back of a spoon, cover the skin with a thin, even coating. Return the pan to the oven for about 8 minutes, or until the chicken is crispy and the juices run clear.
+7. Remove from the oven and place the chicken on a warm platter. Pour off the excess fat from the sauté pan. Over high heat, deglaze the pan with the brandy. Cook just until the aroma of alcohol burns off. Stir in the demi-glace. Reduce the heat and simmer for 5 minutes, being careful not to burn.
+8. Spoon the pan sauce onto warm dinner plates, being careful not to break the crust, and top each with a chicken half. Serve with the cranberry-orange relish on the side.
 
 # Sides
 
@@ -394,6 +641,50 @@ Makes one 9x13 dish full. Enough for a crowd.
 5. Mix 1/4 cup of melted butter into the corn flakes and top the potatoes.
 6. Spread the mixture evenly in a greased 9x13 dish.
 7. Bake for 1 hour, until hot and bubbly.
+
+## Potato Salad
+
+Yellowy spuds shot through with tangy dill pickle, the acidity tamed by a dollop of mayonnaise and chunks of creamy egg.
+
+Serves 8 to 10.
+
+**Ingredients**
+
+- 5 medium russet potatoes (about 2 1/2 pounds), peeled and cubed
+- 1/2 cup mayonnaise
+- 1/4 cup yellow mustard
+- 1/2 cup dill pickle relish (or finely chopped dill pickles)
+- 2 hard-boiled eggs, peeled and finely chopped
+- Salt and ground black pepper
+
+**Instructions**
+
+1. Bring a pot of salted water to a boil and add the potatoes; boil for 7 to 8 minutes, until fork tender. Drain and place in a large bowl.
+2. For a creamy-chunky texture, mash the potatoes with a fork, leaving some whole and some just slightly mashed.
+3. In a separate bowl, whisk the mayonnaise, mustard, and relish together for the dressing. Pour the dressing over the potatoes, add in the chopped egg, and mix thoroughly. Season with salt and black pepper.
+
+## Turnip Greens
+
+Prep 15 minutes, cook 1 hour, makes 6 servings.
+
+**Ingredients**
+
+- 2 bunches turnip greens
+- 3 to 4 tablespoons bacon grease
+- 1 small onion, finely chopped
+- 2 garlic cloves, finely chopped
+- 2 slices country ham, cut into small pieces
+- 3 cups chicken stock, plus more as needed
+- 2 medium turnips, peeled and chopped
+- 1 tablespoon apple cider vinegar
+- 1/2 teaspoon red pepper flakes (optional)
+- Salt and pepper to taste
+
+**Instructions**
+
+1. Turnip greens need to be washed and picked over well. Put the bundles of turnip greens in a sink with running water and wash them thoroughly. Pull the tough stem from the center of each leaf and discard it. Fill the sink with fresh cold water and press the leaves down into the water, rinsing the leaves. Drain the sink, rinsing the sand and dirt from the bottom of the sink down the drain. Refill the sink with cold water and rinse again. Repeat the process four times total until your greens are completely free of dirt and sand. Place the greens in a large colander to drain.
+2. In a large pot or Dutch oven over medium-high heat, warm the bacon grease. Add the onion, garlic, and ham and cook until the onion is translucent and the ham is lightly golden, 4 to 6 minutes. Add the chicken stock, stir to deglaze the pot, and bring to a boil.
+3. Add the turnips first, then layer the greens into the pot. It may initially appear as though there are too many greens for the pot to hold, but they will quickly wilt. Once they are wilted, add the vinegar and red pepper flakes (if desired). If needed, add more chicken stock, so the liquid cooks down but never boils dry. Lower the heat to medium and cook, uncovered, for 45 minutes to 1 hour, until the greens are tender. Season with salt and pepper and serve.
 
 # Desserts & Pastries
 

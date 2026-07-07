@@ -6,6 +6,9 @@ on:
       - main
   pull_request:
 
+permissions:
+  contents: write
+
 jobs:
   build-pdf:
     runs-on: ubuntu-latest
@@ -13,7 +16,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-    
+
       - name: Install dependencies
         run: |
           sudo apt-get update
@@ -26,3 +29,22 @@ jobs:
         with:
           name: recipes-pdf
           path: recipes.pdf
+
+      - name: Determine next release version
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        id: version
+        run: |
+          git fetch --tags --quiet
+          latest=$(git tag -l 'v[0-9]*' | sed 's/^v//' | sort -n | tail -1)
+          next=$(( ${latest:-0} + 1 ))
+          echo "tag=v${next}" >> "$GITHUB_OUTPUT"
+
+      - name: Create release
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: ${{ steps.version.outputs.tag }}
+          files: recipes.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
