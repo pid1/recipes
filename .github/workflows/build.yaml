@@ -19,6 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          sudo grep -rl 'packages.microsoft.com' /etc/apt/sources.list.d/ | xargs -r sudo rm -f
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra fonts-texgyre
 
