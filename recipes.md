@@ -421,6 +421,32 @@ Makes 4 to 6 servings.
 8. Using a knife, cut the chilled dough into 2-inch squares. Gently drop each square, one at a time, into the boiling broth. Lower the heat to medium and simmer, uncovered, until all of the dumplings rise to the top, about 10 minutes. Return the chicken to the pot and simmer for an additional 5 minutes.
 9. Using a soup ladle, divide the chicken and dumplin's among individual bowls. Garnish with the parsley and serve.
 
+## Chuck Roast Guisada
+
+A riff on traditional carne guisada that throws the entire stew - chuck roast, tomatoes, chiles, and all - into the smoker.
+
+Serves 8 to 10.
+
+**Ingredients**
+
+- 1 chuck roast, about 10 pounds, trimmed of fat and cut into 1/2-inch cubes
+- 2 tablespoons kosher salt
+- 2 tablespoons ground black pepper
+- 4 tomatoes, cored and roughly chopped
+- 4 serrano chiles, stems removed and roughly chopped
+- 3 garlic cloves, peeled
+- 1/3 cup all-purpose flour
+- Flour tortillas, for serving
+
+Special equipment: smoker
+
+**Instructions**
+
+1. Prepare a smoker to 225 degrees F.
+2. Cover the chuck roast with the salt and pepper and place in a large disposable foil roasting tray. Smoke, uncovered, for 90 minutes, stirring every 30 minutes or so.
+3. In a medium pot, add the tomatoes, chiles, garlic, and enough water to just cover. Bring to a boil over high heat, then reduce to a simmer and cook for 8 minutes, or until the vegetables have softened. Use an immersion blender to blend until smooth, then whisk in the flour until it is fully incorporated and no lumps remain.
+4. Add the tomato sauce to the meat and stir to combine. Cover with foil. Cook for 6 to 7 hours, stirring every hour, until the meat is tender. Serve with flour tortillas.
+
 # Sides
 
 ## Cowboy beans
@@ -527,6 +553,27 @@ Makes one 9x13 dish full. Enough for a crowd.
 5. Mix 1/4 cup of melted butter into the corn flakes and top the potatoes.
 6. Spread the mixture evenly in a greased 9x13 dish.
 7. Bake for 1 hour, until hot and bubbly.
+
+## Potato Salad
+
+Yellowy spuds shot through with tangy dill pickle, the acidity tamed by a dollop of mayonnaise and chunks of creamy egg.
+
+Serves 8 to 10.
+
+**Ingredients**
+
+- 5 medium russet potatoes (about 2 1/2 pounds), peeled and cubed
+- 1/2 cup mayonnaise
+- 1/4 cup yellow mustard
+- 1/2 cup dill pickle relish (or finely chopped dill pickles)
+- 2 hard-boiled eggs, peeled and finely chopped
+- Salt and ground black pepper
+
+**Instructions**
+
+1. Bring a pot of salted water to a boil and add the potatoes; boil for 7 to 8 minutes, until fork tender. Drain and place in a large bowl.
+2. For a creamy-chunky texture, mash the potatoes with a fork, leaving some whole and some just slightly mashed.
+3. In a separate bowl, whisk the mayonnaise, mustard, and relish together for the dressing. Pour the dressing over the potatoes, add in the chopped egg, and mix thoroughly. Season with salt and black pepper.
 
 # Desserts & Pastries
 
