@@ -352,7 +352,36 @@ Makes about 6 servings.
 
 ## Empanadas
 
-TODO
+Puerto Rican pastelillos. Store-bought empanada dough discs work fine if you'd rather skip making your own.
+
+Makes 32 empanadas.
+
+**Ingredients**
+
+- 4 cups all-purpose flour (for dough, omit if using store-bought)
+- 1 teaspoon salt (for dough)
+- 1/2 cup unsalted butter, melted (for dough)
+- 4 egg yolks (for dough)
+- 1 cup water (for dough)
+- 2 lbs cooked shredded chicken
+- 2 medium-sized potatoes, diced into 1/4-inch cubes
+- 2 cups shredded cheddar or Mexican blend cheese
+- 2 tablespoons olive oil
+- 3 packets Goya Sazon con culantro y achiote seasoning
+- 6 tablespoons jarred Goya sofrito
+- 6 tablespoons lime juice
+- 4 cloves garlic, minced
+- 1 cup water (for filling)
+- 2 eggs, for egg wash
+
+**Instructions**
+
+1. Make the dough, or skip to step 2 if using store-bought dough discs: Mix the flour with the salt in a large bowl to combine. Add the melted butter, egg yolks, and water to the flour mixture and mix together until a dough begins to form. Transfer to a flour-dusted surface and knead until a consistent ball of dough forms; if the dough feels too wet, add flour a tablespoon at a time until it no longer sticks to your hands. Cover the dough with a towel and chill in the fridge for at least 30 minutes. Divide the dough into quarters, then eighths, then sixteenths, then into 32 pieces. Roll each piece into a ball, then roll each ball into a round disk on a flour-dusted surface using a rolling pin.
+2. Preheat the oven to 350 degrees F and line several baking sheets with parchment paper.
+3. In a large skillet, heat the olive oil over medium heat and sauté the garlic and sofrito until fragrant. Add the shredded chicken, lime juice, and potatoes. Cover and cook until the potatoes are soft, about 8-10 minutes.
+4. Add the Sazon packets along with 1 cup of water and simmer for another 10 minutes. Stir in the cheese and remove from heat. Allow the mixture to cool slightly, then transfer to a large bowl.
+5. Place about 2-3 tablespoons of the chicken and potato mixture on one side of each dough disk. Moisten the edges of the disk with water and fold in half, creating a half-moon-shaped pastry. Use a fork to crimp the edges to seal.
+6. Transfer the empanadas to a cookie sheet and brush with egg wash. Bake at 350 degrees for 35-40 minutes, until crispy. Alternatively, pan fry or deep fry instead of baking.
 
 # Sides
 
