@@ -242,7 +242,35 @@ Makes one 8x10 casserole.
 
 ## Pibil
 
-TODO
+Makes 8 tacos.
+
+**Ingredients**
+
+- 1/4 cup corn or canola oil
+- 3 pounds boneless chuck roast, cut into 4-inch cubes
+- 3 coarsely chopped onions
+- 1 cup minced garlic (8 to 10 cloves)
+- 1/4 cup seeded and coarsely chopped jalapeño chiles
+- 2 unpeeled oranges, cut into wedges
+- 2 unpeeled limes, cut into wedges
+- 1 teaspoon ground cumin
+- 4 cups water
+- Salt and freshly ground pepper to taste
+- 1 cup chopped fresh cilantro
+- 8 corn tortilla shells or 8 soft flour tortillas
+- 1/2 cup grated cotija cheese, crumbled queso fresco, or feta cheese, for topping
+- 1/2 cup sour cream, for topping
+- 1/2 cup guacamole, for topping
+- 1/2 cup salsa of choice, for topping
+
+**Instructions**
+
+1. Preheat the oven to 300 degrees F. In a Dutch oven or heavy casserole, heat the oil over medium-high heat until smoking, and brown the chuck roast, in batches, on all sides, about 6 minutes per batch. Using a slotted spoon, transfer each batch to a bowl; when all the meat is browned, return it to the pan. Add the onion, garlic, chiles, oranges, limes, cumin, water, salt, pepper, and half of the cilantro. Cover and bake for about 4 hours, or until very tender. Remove from the oven.
+2. Using a slotted spoon, transfer the meat and vegetables to a plate, reserving the liquid, and let the meat cool to the touch. Discard the orange and lime wedges.
+3. Pull the meat apart into bite-sized chunks. Meanwhile, place the pan on the stove and cook the pan liquid over medium heat until reduced by half.
+4. Return the meat and vegetables to the reduced liquid. Stir in the remaining cilantro. Taste and adjust the seasoning. Reheat the mixture over medium-low heat.
+5. If using flour tortillas, heat a dry 12-inch sauté pan over medium-high heat. Heat each tortilla separately, turning once, for about 30 seconds per side. Keep warm in a low oven on a baking sheet, layering the tortillas with clean dish towels to keep them from sticking together.
+6. To serve, divide the meat among the tortillas, top with cheese, sour cream, guacamole, and salsa of choice, and (if using flour tortillas) fold one side over about 2 inches of the filling and roll. Alternatively, if the tortillas are small, fold them in half.
 
 ## Honey Chipotle Chicken Thighs
 
