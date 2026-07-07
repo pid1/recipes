@@ -575,6 +575,29 @@ Serves 8 to 10.
 2. For a creamy-chunky texture, mash the potatoes with a fork, leaving some whole and some just slightly mashed.
 3. In a separate bowl, whisk the mayonnaise, mustard, and relish together for the dressing. Pour the dressing over the potatoes, add in the chopped egg, and mix thoroughly. Season with salt and black pepper.
 
+## Turnip Greens
+
+Prep 15 minutes, cook 1 hour, makes 6 servings.
+
+**Ingredients**
+
+- 2 bunches turnip greens
+- 3 to 4 tablespoons bacon grease
+- 1 small onion, finely chopped
+- 2 garlic cloves, finely chopped
+- 2 slices country ham, cut into small pieces
+- 3 cups chicken stock, plus more as needed
+- 2 medium turnips, peeled and chopped
+- 1 tablespoon apple cider vinegar
+- 1/2 teaspoon red pepper flakes (optional)
+- Salt and pepper to taste
+
+**Instructions**
+
+1. Turnip greens need to be washed and picked over well. Put the bundles of turnip greens in a sink with running water and wash them thoroughly. Pull the tough stem from the center of each leaf and discard it. Fill the sink with fresh cold water and press the leaves down into the water, rinsing the leaves. Drain the sink, rinsing the sand and dirt from the bottom of the sink down the drain. Refill the sink with cold water and rinse again. Repeat the process four times total until your greens are completely free of dirt and sand. Place the greens in a large colander to drain.
+2. In a large pot or Dutch oven over medium-high heat, warm the bacon grease. Add the onion, garlic, and ham and cook until the onion is translucent and the ham is lightly golden, 4 to 6 minutes. Add the chicken stock, stir to deglaze the pot, and bring to a boil.
+3. Add the turnips first, then layer the greens into the pot. It may initially appear as though there are too many greens for the pot to hold, but they will quickly wilt. Once they are wilted, add the vinegar and red pepper flakes (if desired). If needed, add more chicken stock, so the liquid cooks down but never boils dry. Lower the heat to medium and cook, uncovered, for 45 minutes to 1 hour, until the greens are tender. Season with salt and pepper and serve.
+
 # Desserts & Pastries
 
 ## Chocolate Chip Cookies
