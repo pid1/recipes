@@ -501,6 +501,48 @@ Makes 6 servings.
 5. Heat about 1/4 inch oil in a very large heavy skillet to about 350 degrees F. Dredge each fillet in the seasoned flour, shaking off the excess; soak in the egg mixture; then, just before frying, dredge the fillets once more in the flour, shaking off the excess. Fry the fillets in the hot oil until golden brown, about 2 to 3 minutes per side, adjusting the heat as necessary to maintain the oil's temperature. Drain on paper towels and, while still hot, spread a scant 2 tablespoons of the pecan butter sauce over the top of each fillet. Serve immediately.
 6. To serve, spoon a scant 1/3 cup of the Meunière sauce onto each heated serving plate and place a fillet on top. Sprinkle each fillet with about 1 tablespoon pecans.
 
+## Chicken with Maple Pecan Crust and Cranberry-Orange Relish
+
+Adapted from The Mansion on Turtle Creek Cookbook, simplified to skip the fried sweet potato cups - the relish is just served on the side.
+
+Serves 4.
+
+**Ingredients**
+
+*For the cranberry-orange relish:*
+
+- 1 cup cranberries
+- Zest and sections of 1 orange, pith removed and seeded
+- Zest of 1 small lemon
+- 2 teaspoons grated fresh ginger
+- 2 teaspoons chopped fresh cilantro
+- Pure maple syrup, to taste
+
+*For the chicken:*
+
+- 2 (3-pound) free-range chickens or fryers, boned into 4 boneless, skin-on chicken halves
+- Salt, to taste
+- Coarsely ground black pepper, to taste
+- 2 tablespoons vegetable oil
+- 1 cup finely ground pecans
+- 1 tablespoon Dijon mustard
+- 1 tablespoon pure maple syrup
+- 1 tablespoon reserved chicken grease
+- 1 egg white, lightly beaten
+- 2 tablespoons brandy
+- 1 1/2 cups brown veal demi-glace
+
+**Instructions**
+
+1. Make the cranberry-orange relish: Using the fine die of a food grinder, grind the cranberries, orange zest and sections, lemon zest, ginger, and cilantro into a small bowl (or process finely in a food processor). Add maple syrup to taste and mix well. Cover and set aside; the relish can be made up to 1 day ahead and refrigerated, tightly covered. Serve at room temperature.
+2. Preheat the oven to 400 degrees F.
+3. Remove the wings from the chickens. Starting at the keel bone, run the tip of a knife between the breast meat and bone back to the thigh so that the boneless breast and thigh meat separate in one piece, leaving the skin on. Cutting from the underside, remove the thigh and leg bones. Repeat for the other bird so that you have 4 boneless chicken halves.
+4. Season the chicken halves with salt and pepper. Heat the oil in an ovenproof sauté pan large enough to hold the chicken halves in a single layer. Sauté the chicken, skin side down, for about 5 minutes, or until a light brown crust has formed, being careful not to burn.
+5. Turn the halves skin side up and place the sauté pan in the oven. Roast for 8 minutes, then remove from the oven. Pour off the grease, reserving 1 tablespoon.
+6. Combine the pecans, mustard, maple syrup, reserved chicken grease, egg white, and salt to taste. Spoon the mixture over each chicken half and, using the back of a spoon, cover the skin with a thin, even coating. Return the pan to the oven for about 8 minutes, or until the chicken is crispy and the juices run clear.
+7. Remove from the oven and place the chicken on a warm platter. Pour off the excess fat from the sauté pan. Over high heat, deglaze the pan with the brandy. Cook just until the aroma of alcohol burns off. Stir in the demi-glace. Reduce the heat and simmer for 5 minutes, being careful not to burn.
+8. Spoon the pan sauce onto warm dinner plates, being careful not to break the crust, and top each with a chicken half. Serve with the cranberry-orange relish on the side.
+
 # Sides
 
 ## Cowboy beans
