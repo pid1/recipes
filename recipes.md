@@ -790,6 +790,29 @@ The egg whites provide the lift and texture for the coating, so whip to stiff pe
 5. Roll balls of dough in mixture. Place inches apart on ungreased baking sheets.
 6. Bake 8 to 10 minutes, or until set but not too hard. Remove immediately from baking sheets.
 
+## Old Fashioned Banana Pudding
+
+Nothing better than this banana pudding recipe! Serves 6-8.
+
+**Ingredients**
+
+- 1 cup sugar
+- 4 eggs, beaten
+- 1 dash salt
+- 2 tablespoons cornstarch
+- 2 cups milk
+- 1 1/2 teaspoons vanilla
+- 3-4 ripe bananas, sliced
+- Vanilla wafers
+
+**Instructions**
+
+1. Mix sugar, salt, and cornstarch together.
+2. Add the milk and beaten eggs, stirring to combine.
+3. Bring to a boil over medium-high heat, stirring constantly; cook until thickened.
+4. Remove from heat; add vanilla and mix well.
+5. In serving bowl, layer the wafers, bananas, and the pudding.
+
 # Sauces, Spreads & Seasonings
 
 ## Avocado Spread
