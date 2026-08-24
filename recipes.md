@@ -813,6 +813,30 @@ Nothing better than this banana pudding recipe! Serves 6-8.
 4. Remove from heat; add vanilla and mix well.
 5. In serving bowl, layer the wafers, bananas, and the pudding.
 
+## Peach Crumble
+
+Buttery streusel over a soft peach filling. Serves 6-8.
+
+**Ingredients**
+
+- 2 28-ounce cans sliced peaches in juice, drained
+- 1/3 cup granulated sugar
+- 2 tablespoons lemon juice
+- 2 teaspoons vanilla extract
+- 1 teaspoon ground cinnamon
+- 1/4 teaspoon kosher salt
+- 1 1/2 cups all-purpose flour
+- 1/2 cup light brown sugar
+- 1/2 cup granulated sugar
+- 8 tablespoons (1 stick) salted butter, melted
+- Vanilla ice cream
+
+**Instructions**
+
+1. For the filling: preheat the oven to 375 degrees F. Stir together the drained peaches, granulated sugar, lemon juice, vanilla, cinnamon, and salt in a medium bowl. Pour the mixture into a 9-inch deep-dish pie plate or an 8-by-8-inch baking dish.
+2. For the topping: stir together the flour, brown sugar, and granulated sugar in the same bowl. Add the melted butter and stir until the mixture is crumbly. Sprinkle the topping over the peach mixture.
+3. Bake until golden brown and bubbly, about 40 minutes. Serve with vanilla ice cream.
+
 # Sauces, Spreads & Seasonings
 
 ## Avocado Spread
