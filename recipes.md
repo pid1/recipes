@@ -80,18 +80,19 @@ Great with some jam.
 
 **Ingredients**
 
-- 3 eggs  
-- 1/2 cup flour  
-- 1/2 cup milk  
-- 1 tablespoon sugar  
-- 1/4 teaspoon cinnamon  
-- 1/4 teaspoon vanilla extract  
-- 1/8 teaspoon ground ginger  
-- 1/8 teaspoon nutmeg  
-- 4 tablespoons butter  
-- Syrup, preserves, confectioners' sugar, or cinnamon sugar  
+- 3 eggs
+- 1/2 cup flour
+- 1/2 cup milk
+- 1 tablespoon sugar
+- 1/4 teaspoon cinnamon
+- 1/4 teaspoon vanilla extract
+- 1/8 teaspoon ground ginger
+- 1/8 teaspoon nutmeg
+- 4 tablespoons butter
+- Syrup, preserves, confectioners' sugar, or cinnamon sugar
 
 Instructions
+
 1. Preheat oven to 425 degrees.
 2. Combine eggs, flour, milk, sugar, nutmeg, and vanilla extract in a blender jar and blend until smooth. Batter may also be mixed by hand.
 3. Place butter in a heavy 10-inch skillet or baking dish and place in the oven. As soon as the butter has melted (watch it so it does not burn) add the batter to the pan, return pan to the oven and bake for 20 minutes, until the pancake is puffed and golden.
@@ -449,7 +450,7 @@ Makes 6 servings.
 
 **Ingredients**
 
-*For the Meunière sauce (makes about 2 cups):*
+_For the Meunière sauce (makes about 2 cups):_
 
 - 1 cup seafood or fish stock
 - 3/4 teaspoon minced garlic
@@ -458,7 +459,7 @@ Makes 6 servings.
 - 1/4 cup Worcestershire sauce
 - 1/4 teaspoon salt
 
-*For the pecan butter sauce (makes about 2/3 cup):*
+_For the pecan butter sauce (makes about 2/3 cup):_
 
 - 4 tablespoons unsalted butter, softened
 - 1/2 cup coarsely chopped pecans, dry roasted
@@ -467,7 +468,7 @@ Makes 6 servings.
 - 1/2 teaspoon Tabasco sauce
 - 1/4 teaspoon minced garlic
 
-*For the fish:*
+_For the fish:_
 
 - 1/2 cup milk
 - 1 egg, beaten
@@ -501,7 +502,7 @@ Serves 4.
 
 **Ingredients**
 
-*For the cranberry-orange relish:*
+_For the cranberry-orange relish:_
 
 - 1 cup cranberries
 - Zest and sections of 1 orange, pith removed and seeded
@@ -510,7 +511,7 @@ Serves 4.
 - 2 teaspoons chopped fresh cilantro
 - Pure maple syrup, to taste
 
-*For the chicken:*
+_For the chicken:_
 
 - 2 (3-pound) free-range chickens or fryers, boned into 4 boneless, skin-on chicken halves
 - Salt, to taste
@@ -571,17 +572,17 @@ Makes one 9 inch round cast iron pan of cornbread.
 
 **Ingredients**
 
-- 1 cup cornmeal  
-- 1 cup all purpose flour  
-- 2 teaspoons baking powder  
-- 1/2 teaspoon sea salt  
-- 1/4 teaspoon baking soda  
-- 1 cup whole milk  
-- 1 egg  
-- 1/4 cup honey  
-- 1/4 cup unsalted butter  
-- 1/4 cup minced pickled jalapeños, minced  
-- 1 cup shredded cheddar  
+- 1 cup cornmeal
+- 1 cup all purpose flour
+- 2 teaspoons baking powder
+- 1/2 teaspoon sea salt
+- 1/4 teaspoon baking soda
+- 1 cup whole milk
+- 1 egg
+- 1/4 cup honey
+- 1/4 cup unsalted butter
+- 1/4 cup minced pickled jalapeños, minced
+- 1 cup shredded cheddar
 
 **Instructions**
 
@@ -599,16 +600,16 @@ Jo makes this for Sarah every Thanksgiving.
 
 **Ingredients**
 
-- 5 medium sweet potatoes  
-- 1/3 cup heavy cream  
-- 3 tablespoons brown sugar  
-- 2 tablespoons sugar  
-- 4 tablespoons melted butter  
-- 1/2 teaspoon cinnamon  
-- 1/4 teaspoon nutmeg  
-- 1/4 teaspoon ginger  
-- 1/4 teaspoon salt  
-- 1-2 cups mini marshmallows  
+- 5 medium sweet potatoes
+- 1/3 cup heavy cream
+- 3 tablespoons brown sugar
+- 2 tablespoons sugar
+- 4 tablespoons melted butter
+- 1/2 teaspoon cinnamon
+- 1/4 teaspoon nutmeg
+- 1/4 teaspoon ginger
+- 1/4 teaspoon salt
+- 1-2 cups mini marshmallows
 
 **Instructions**
 
@@ -723,16 +724,16 @@ The egg whites provide the lift and texture for the coating, so whip to stiff pe
 
 **Ingredients**
 
-- 1 cup light brown sugar, packed  
-- 1 cup granulated sugar  
-- 4 tsp vanilla extract  
-- 2 tsp ground Vietnamese (Saigon) cinnamon, or 2 tsp regular cinnamon  
-- 1 tsp salt  
-- 1/2 tsp ground ginger  
-- 1/2 tsp ground nutmeg  
-- 1/2 tsp ground cardamom  
-- 2 egg whites  
-- 1 lb whole, raw pecans  
+- 1 cup light brown sugar, packed
+- 1 cup granulated sugar
+- 4 tsp vanilla extract
+- 2 tsp ground Vietnamese (Saigon) cinnamon, or 2 tsp regular cinnamon
+- 1 tsp salt
+- 1/2 tsp ground ginger
+- 1/2 tsp ground nutmeg
+- 1/2 tsp ground cardamom
+- 2 egg whites
+- 1 lb whole, raw pecans
 
 **Instructions**
 
@@ -747,16 +748,16 @@ The egg whites provide the lift and texture for the coating, so whip to stiff pe
 
 **Ingredients**
 
-- 3/4 cups dark corn syrup  
-- 1/4 cup maple syrup  
-- 2 tablespoons bourbon (I recommend Bulleit Rye)  
-- 1/2 cup granulated sugar  
-- 2 large eggs  
-- 1 tablespoon all purpose flour  
-- 4 tablespoons unsalted butter  
-- 2 teaspoons vanilla extract  
-- 1/2 cup coarsely chopped pecans  
-- 1/2 cup pecan halves  
+- 3/4 cups dark corn syrup
+- 1/4 cup maple syrup
+- 2 tablespoons bourbon (I recommend Bulleit Rye)
+- 1/2 cup granulated sugar
+- 2 large eggs
+- 1 tablespoon all purpose flour
+- 4 tablespoons unsalted butter
+- 2 teaspoons vanilla extract
+- 1/2 cup coarsely chopped pecans
+- 1/2 cup pecan halves
 
 **Instructions**
 
@@ -886,13 +887,14 @@ Store bought tahini is fine, but its better with the tahini in this book.
 Makes about two cups
 
 **Ingredients**
-- 3 cups dry chickpeas  
-- 1/2 cup olive oil  
-- 2/3 cup tahini  
-- 1 tablespoon garlic powder  
-- 1.5 cups lemon juice  
-- 1.5 teaspoons salt  
-- 1 teaspoon cumin  
+
+- 3 cups dry chickpeas
+- 1/2 cup olive oil
+- 2/3 cup tahini
+- 1 tablespoon garlic powder
+- 1.5 cups lemon juice
+- 1.5 teaspoons salt
+- 1 teaspoon cumin
 
 **Instructions**
 
@@ -906,17 +908,19 @@ Great on toast as a sandwich.
 Makes about three cups.
 
 **Ingredients**
-- 4oz canned pimentos, drained  
-- 8oz room temperature cream cheese  
-- 1/4 cup good mayonnaise (Duke's)  
-- 1/2 teaspoon garlic powder  
-- 1/2 teaspoon onion powder  
-- 1 tablespoon hot sauce (Crystal, Louisiana)  
-- 1/4 teaspoon Worcestershire  
-- 1 tablespoon sugar  
-- 2 cups fresh grated cheddar (about one 8oz bar shredded)  
+
+- 4oz canned pimentos, drained
+- 8oz room temperature cream cheese
+- 1/4 cup good mayonnaise (Duke's)
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon onion powder
+- 1 tablespoon hot sauce (Crystal, Louisiana)
+- 1/4 teaspoon Worcestershire
+- 1 tablespoon sugar
+- 2 cups fresh grated cheddar (about one 8oz bar shredded)
 
 **Instructions**
+
 1. Add everything but the cheddar into a bowl. Mix with a hand mixer to get the cream cheese fully incorporated, though you can do this by hand too.
 2. Mix in the cheddar by hand.
 3. Let sit in the fridge, preferably overnight.
@@ -929,14 +933,14 @@ Makes about 3 cups.
 
 **Ingredients**
 
-- 2 cups distilled white vinegar  
-- 1/2 cup ketchup  
-- 1/2 cup apple juice  
-- 6 tablespoons white sugar  
-- 2 tablespoons kosher salt  
-- 2 tablespoons hot sauce (Louisiana or Crystal)  
-- 2 tablespoons Worcestershire sauce  
-- 1 tablespoon MSG  
+- 2 cups distilled white vinegar
+- 1/2 cup ketchup
+- 1/2 cup apple juice
+- 6 tablespoons white sugar
+- 2 tablespoons kosher salt
+- 2 tablespoons hot sauce (Louisiana or Crystal)
+- 2 tablespoons Worcestershire sauce
+- 1 tablespoon MSG
 
 **Instructions**
 
@@ -950,6 +954,7 @@ Great on biscuits, fried chicken, or mashed potatoes. Sarah doesn't eat pork, so
 Makes about 3 cups
 
 **Ingredients**
+
 - 1/4 cup unsalted butter
 - 1/4 cup all-purpose flour
 - 2 cups whole milk
@@ -972,6 +977,7 @@ Makes about 1.5 cups
 - 1/4 cup olive oil
 
 **Instructions**
+
 1. Toast the sesame seeds on a baking sheet for 10-12 minutes on 350 or until browned and fragrant.
 2. Remove from the oven and immediately transfer to a large, wide bowl to cool, mixing occasionally.
 3. Mix in a food processor with the olive oil until smooth.
@@ -1001,12 +1007,12 @@ Makes about 2 cups.
 
 **Ingredients**
 
-- 1.5 pounds tomatillos  
-- 3 ounces New Mexico chili pods  
-- 3 tablespoons Frank's Red Hot  
-- 1 tablespoon garlic powder  
-- 1 tablespoon salt  
-- 1 tablespoon cumin  
+- 1.5 pounds tomatillos
+- 3 ounces New Mexico chili pods
+- 3 tablespoons Frank's Red Hot
+- 1 tablespoon garlic powder
+- 1 tablespoon salt
+- 1 tablespoon cumin
 
 **Instructions**
 
