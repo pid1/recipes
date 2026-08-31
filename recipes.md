@@ -98,7 +98,7 @@ Instructions
 3. Place butter in a heavy 10-inch skillet or baking dish and place in the oven. As soon as the butter has melted (watch it so it does not burn) add the batter to the pan, return pan to the oven and bake for 20 minutes, until the pancake is puffed and golden.
 4. Remove pancake from oven, cut into wedges and serve at once topped with syrup, preserves, confectioners' sugar or cinnamon sugar.
 
-# Appetizers
+## Appetizers
 
 ## Spinach and Artichoke Dip
 
@@ -145,7 +145,7 @@ Makes 1 pint.
 
 1. Dump everything into a food processor and whir it up till smooth. Serve with Fritos.
 
-# Mains
+## Mains
 
 ## Basil Pesto Chicken Pasta
 
@@ -536,7 +536,7 @@ _For the chicken:_
 7. Remove from the oven and place the chicken on a warm platter. Pour off the excess fat from the sauté pan. Over high heat, deglaze the pan with the brandy. Cook just until the aroma of alcohol burns off. Stir in the demi-glace. Reduce the heat and simmer for 5 minutes, being careful not to burn.
 8. Spoon the pan sauce onto warm dinner plates, being careful not to break the crust, and top each with a chicken half. Serve with the cranberry-orange relish on the side.
 
-# Sides
+## Sides
 
 ## Cowboy beans
 
@@ -687,7 +687,7 @@ Prep 15 minutes, cook 1 hour, makes 6 servings.
 2. In a large pot or Dutch oven over medium-high heat, warm the bacon grease. Add the onion, garlic, and ham and cook until the onion is translucent and the ham is lightly golden, 4 to 6 minutes. Add the chicken stock, stir to deglaze the pot, and bring to a boil.
 3. Add the turnips first, then layer the greens into the pot. It may initially appear as though there are too many greens for the pot to hold, but they will quickly wilt. Once they are wilted, add the vinegar and red pepper flakes (if desired). If needed, add more chicken stock, so the liquid cooks down but never boils dry. Lower the heat to medium and cook, uncovered, for 45 minutes to 1 hour, until the greens are tender. Season with salt and pepper and serve.
 
-# Desserts & Pastries
+## Desserts & Pastries
 
 ## Chocolate Chip Cookies
 
@@ -838,7 +838,7 @@ Buttery streusel over a soft peach filling. Serves 6-8.
 2. For the topping: stir together the flour, brown sugar, and granulated sugar in the same bowl. Add the melted butter and stir until the mixture is crumbly. Sprinkle the topping over the peach mixture.
 3. Bake until golden brown and bubbly, about 40 minutes. Serve with vanilla ice cream.
 
-# Sauces, Spreads & Seasonings
+## Sauces, Spreads & Seasonings
 
 ## Avocado Spread
 
@@ -1020,7 +1020,7 @@ Makes about 2 cups.
 2. While the tomatillos cook, boil a pot of water. De-stem and de-seed the New Mexico chili pods. When the water is boiling, add the chili pods and take the pot off the heat. Let sit for 10 minutes, then rinse.
 3. When the tomatillos are done and cooled, combine all ingredients in a blender. Blend until smooth, at least 3-4 minutes.
 
-# Drinks
+## Drinks
 
 ## Aviation
 
