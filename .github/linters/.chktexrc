@@ -1,4 +1,0 @@
--n1
-# Warning 1 is "command terminated with space". A trailing space after a
-# LaTeX command is how you stop the parser swallowing the following
-# whitespace, so it is frequently deliberate.
