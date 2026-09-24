@@ -1001,6 +1001,21 @@ The one from that dog-themed chicken tender purveyor.
 1. Combine all ingredients in a bowl and mix with a fork.
 2. Let sit in the fridge, preferably overnight.
 
+## Fish Fry
+
+Makes about 1 cup.
+
+**Ingredients**
+
+- 1/2 cup cornmeal
+- 1/2 cup flour
+- 2 teaspoons Tony Chachere's Creole Seasoning
+- 1 teaspoon baking powder
+
+**Instructions**
+
+1. Whisk all ingredients together until evenly combined.
+
 ## New Mexico Chili and Tomatillo Salsa
 
 Makes about 2 cups.
